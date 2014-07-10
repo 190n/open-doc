@@ -1,0 +1,14 @@
+{
+  "name": "open-doc",
+  "main": "./lib/open-doc",
+  "version": "0.0.0",
+  "description": "Opens the current file in a browser.",
+  "activationEvents": ["open-doc:open"],
+  "repository": "https://github.com/fogcityben/open-doc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
