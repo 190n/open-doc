@@ -1,7 +1,11 @@
 # See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
-  '.overlayer':
-      'Enable open-doc': 'open-doc:open'
+  'atom-workspace': [
+      {
+          label: 'Open in Browser',
+          command: 'open-doc:open'
+      }
+  ]
 
 'menu': [
   {
