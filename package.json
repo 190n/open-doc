@@ -3,7 +3,7 @@
   "main": "./lib/open-doc",
   "version": "0.3.4",
   "description": "Opens the current file in a browser.",
-  "activationEvents": [
+  "activationCommands": [
     "open-doc:open"
   ],
   "repository": "https://github.com/fogcityben/open-doc",
