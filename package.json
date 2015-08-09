@@ -3,9 +3,9 @@
   "main": "./lib/open-doc",
   "version": "0.3.5",
   "description": "Opens the current file in a browser.",
-  "activationCommands": [
-    "open-doc:open"
-  ],
+  "activationCommands": {
+      "atom-workspace": "open-doc:open"
+  },
   "repository": "https://github.com/190n/open-doc",
   "license": "MIT",
   "engines": {
