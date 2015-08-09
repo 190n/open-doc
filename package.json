@@ -6,7 +6,7 @@
   "activationCommands": [
     "open-doc:open"
   ],
-  "repository": "https://github.com/fogcityben/open-doc",
+  "repository": "https://github.com/190n/open-doc",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
